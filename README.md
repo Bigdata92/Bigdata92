@@ -12,8 +12,7 @@
 
 ### Experience
 - 🎓 Hanyang University, Mathematics Education (2012.03~ 2022.02)
-- 💊 ESTsoft, Sales team Intern (2018.07~2018.12)
-- 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
+- 💊 Hanyang University, MediaSmith Lab Intern (2018.11~ 2020.07)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Bigdata92" height="165">
 
