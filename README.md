@@ -3,10 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:wltkqdl@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://blog.naver.com/doctor_song)
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wltkqdl">
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=Bigdata92" height="150">
 
 ### Who Am I
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wltkqdl">
 
 - 🌱 I’m currently learning Data Engineering, Analysis, Algorithm
 - 🥇 I majored in Mathematics Education
@@ -17,6 +16,7 @@
 - 🎓 Hanyang University, Mathematics Education (2012.03~ 2022.02)
 - 💊 Hanyang University, MediaSmith Lab Intern (2018.11~ 2020.07)
 
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=Bigdata92" height="150">
 
 ### What I Like
 - 📺 Drama
