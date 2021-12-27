@@ -10,11 +10,12 @@
 - 🌱 I’m currently learning Data Engineering, Analysis, Algorithm
 - 🥇 I majored in Mathematics Education
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Bigdata92" height="150">
+
 ### Experience
 - 🎓 Hanyang University, Mathematics Education (2012.03~ 2022.02)
 - 💊 Hanyang University, MediaSmith Lab Intern (2018.11~ 2020.07)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Bigdata92" height="150">
 
 ### What I Like
 - 📺 Drama
