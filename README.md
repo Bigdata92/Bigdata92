@@ -5,6 +5,7 @@
 
 
 ### Who Am I
+
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wltkqdl">
 
 - 🌱 I’m currently learning Data Engineering, Analysis, Algorithm
@@ -16,11 +17,13 @@
 - 🎓 Hanyang University, Mathematics Education (2012.03~ 2022.02)
 - 💊 Hanyang University, MediaSmith Lab Intern (2018.11~ 2020.07)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Bigdata92" width="100"> 
-<!-- height="150" -->
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Bigdata92" height="165">
+
 ### What I Like
+
 - 📺 Drama
 - 🔵 Game
 - 🍕 Pizza
+
 
 
