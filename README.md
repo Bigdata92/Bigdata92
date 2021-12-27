@@ -11,9 +11,8 @@
 - 🌱 I’m currently learning Data Engineering, Analysis, Algorithm
 - 🥇 I majored in Mathematics Education
 
-
-
 ### Experience
+
 - 🎓 Hanyang University, Mathematics Education (2012.03~ 2022.02)
 - 💊 Hanyang University, MediaSmith Lab Intern (2018.11~ 2020.07)
 
@@ -24,6 +23,3 @@
 - 📺 Drama
 - 🔵 Game
 - 🍕 Pizza
-
-
-
