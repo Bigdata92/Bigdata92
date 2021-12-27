@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Data Engineering, Analysis, Algorithm
 - 🥇 I majored in Mathematics Education
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Bigdata92" height="150">
+
 
 ### Experience
 - 🎓 Hanyang University, Mathematics Education (2012.03~ 2022.02)
@@ -21,3 +21,5 @@
 - 📺 Drama
 - 🔵 Game
 - 🍕 Pizza
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Bigdata92" height="150">
