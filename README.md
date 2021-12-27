@@ -3,9 +3,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:wltkqdl@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://blog.naver.com/doctor_song)
 
-### Who Am I
-
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wltkqdl">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=Bigdata92" height="150">
+
+### Who Am I
 
 - 🌱 I’m currently learning Data Engineering, Analysis, Algorithm
 - 🥇 I majored in Mathematics Education
@@ -22,4 +23,4 @@
 - 🔵 Game
 - 🍕 Pizza
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Bigdata92" height="150">
+
