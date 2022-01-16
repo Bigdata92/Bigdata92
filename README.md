@@ -6,7 +6,7 @@
 
 ### Who Am I
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wltkqdl">
+<!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wltkqdl"> -->
 
 - 🌱 I’m currently learning Data Engineering, Analysis, Algorithm
 - 🥇 I majored in Mathematics Education
