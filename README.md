@@ -3,6 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:wltkqdl@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://blog.naver.com/doctor_song)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wltkqdl)](https://solved.ac/wltkqdl/)
 
 ### Who Am I
 
